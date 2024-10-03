@@ -2,6 +2,7 @@ namespace WebApp
 {
     public class Program
     {
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
@@ -21,10 +22,12 @@ namespace WebApp
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            Uporabnik newUser = new Uporabnik();
+            newUser.id = 1;
+
+            Console.Write(newUser.id);
 
             app.UseAuthorization();
-
-            Console.WriteLine("Hello");
 
             app.MapControllers();
 
