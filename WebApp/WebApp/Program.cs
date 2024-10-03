@@ -1,4 +1,3 @@
-
 namespace WebApp
 {
     public class Program
@@ -25,6 +24,7 @@ namespace WebApp
 
             app.UseAuthorization();
 
+            Console.WriteLine("Hello");
 
             app.MapControllers();
 
