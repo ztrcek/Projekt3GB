@@ -2,10 +2,10 @@
 
 namespace WebApp
 {
-    public class Podatki: DbContext
+    public class PodatkiDb: DbContext
     {
         //podatke iz razredov bo pisalo v podatkovno bazo
-        public Podatki(DbContextOptions<Podatki> options): base(options)
+        public PodatkiDb(DbContextOptions<PodatkiDb> options): base(options)
         {
 
         }
