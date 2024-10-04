@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>M3-20-07</Machine>
+    <Machine>M3-20-05</Machine>
     <WindowsUser>student</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -29,249 +29,249 @@
     <AppXManifest Include="C:\Projekt3GB\Aplication\Aplication\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-04T06:53:36.051</Modified>
+      <Modified>2024-10-04T08:54:13.022</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-04T06:53:35.942</Modified>
+      <Modified>2024-10-04T08:54:12.819</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Aplication.runtimeconfig.json">
       <PackagePath>Aplication.runtimeconfig.json</PackagePath>
-      <Modified>2024-10-04T06:05:22.845</Modified>
+      <Modified>2024-10-04T08:54:12.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Aplication.dll">
       <PackagePath>Aplication.dll</PackagePath>
-      <Modified>2024-10-04T06:53:35.707</Modified>
+      <Modified>2024-10-04T08:54:11.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Aplication.exe</PackagePath>
-      <Modified>2024-10-04T06:53:35.707</Modified>
+      <Modified>2024-10-04T08:54:11.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-10-04T06:02:17.072</Modified>
+      <Modified>2024-10-04T07:10:06.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.312</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.328</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.343</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.375</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.484</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-10-04T06:02:17.066</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-10-04T06:02:17.067</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-10-04T06:02:32.562</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:33.015</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:33.031</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:33.062</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:33.078</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:33.203</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.687</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.687</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.703</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.687</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.703</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.640</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.656</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.671</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.656</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.656</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.562</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.578</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.578</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.593</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.593</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.609</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.609</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.640</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.624</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.624</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.796</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.812</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.828</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.843</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.874</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.749</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.765</Modified>
+      <Modified>2024-10-04T07:10:11.442</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.765</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.781</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.796</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.718</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.718</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.734</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.734</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.749</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.890</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.890</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.921</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.937</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-10-04T06:02:32.999</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bussinessoluapp.scale-100.png">
       <PackagePath>bussinessoluapp.scale-100.png</PackagePath>
-      <Modified>2024-10-04T06:13:29.052</Modified>
+      <Modified>2024-10-04T07:10:11.458</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Projekt3GB\Aplication\Aplication\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Aplication.deps.json">
       <PackagePath>Aplication.deps.json</PackagePath>
-      <Modified>2024-10-04T06:40:33.654</Modified>
+      <Modified>2024-10-04T08:54:12.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\student\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

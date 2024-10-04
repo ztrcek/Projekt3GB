@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Projekt3GB\\WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241004063443_X.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004063443_X.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20241004063443_X.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004063443_X.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20241004063443_X.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:15:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPSLocation.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\GPSLocation.cs",
+              "RelativeDocumentMoniker": "WebApp\\GPSLocation.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\GPSLocation.cs",
+              "RelativeToolTip": "WebApp\\GPSLocation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:47:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20241004074732_y.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004074732_y.cs",
+              "RelativeDocumentMoniker": "WebApp\\Migrations\\20241004074732_y.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004074732_y.cs",
+              "RelativeToolTip": "WebApp\\Migrations\\20241004074732_y.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:47:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApp\\WeatherForecast.cs",
@@ -34,17 +85,18 @@
               "RelativeToolTip": "WebApp\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:01:15.004Z"
+              "WhenOpened": "2024-10-04T06:01:15.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
               "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
               "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAArAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T06:01:14.036Z",
               "EditorCaption": ""
@@ -59,7 +111,8 @@
               "RelativeToolTip": "WebApp\\PodatkiDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:01:10.017Z"
+              "WhenOpened": "2024-10-04T06:01:10.017Z",
+              "EditorCaption": ""
             }
           ]
         }

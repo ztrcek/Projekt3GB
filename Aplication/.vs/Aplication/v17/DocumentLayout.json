@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Aplication\\CheckLogin.cs",
               "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\CheckLogin.cs",
               "RelativeToolTip": "Aplication\\CheckLogin.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T06:59:14.212Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Aplication\\MainPage.xaml.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAywCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:40:04.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:40:04.991Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Aplication\\MainPage.xaml",
               "ViewState": "AQIAABAAAAAAAAAAAAAqwCMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-04T06:12:01.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:12:01.807Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Aplication\\MauiProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:11:48.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:11:48.574Z"
             }
           ]
         }
