@@ -21,6 +21,29 @@ namespace WebApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("WebApp.GPSLocation", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<double>("latitude")
+                        .HasColumnType("float");
+
+                    b.Property<double>("longitude")
+                        .HasColumnType("float");
+
+                    b.Property<string>("name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("GPSLocation");
+                });
+
             modelBuilder.Entity("WebApp.Uporabnik", b =>
                 {
                     b.Property<int>("id")

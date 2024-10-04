@@ -11,7 +11,7 @@ namespace WebApp
         }
 
         public virtual DbSet<Uporabnik> Uporabniki { get; set; }
-
+        public virtual DbSet<GPSLocation> GPSLocation { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<Uporabnik>()

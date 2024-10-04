@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aplication\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aplication\\MainPage.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:40:04.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appicon.svg",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\Resources\\AppIcon\\appicon.svg",
               "RelativeDocumentMoniker": "Aplication\\Resources\\AppIcon\\appicon.svg",
@@ -45,14 +62,14 @@
               "RelativeDocumentMoniker": "Aplication\\MainPage.xaml",
               "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
               "RelativeToolTip": "Aplication\\MainPage.xaml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowB0AAAAQAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-04T06:12:01.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Aplication\\MauiProgram.cs",

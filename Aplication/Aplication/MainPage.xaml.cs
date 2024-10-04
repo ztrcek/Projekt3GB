@@ -1,9 +1,11 @@
-﻿namespace Aplication
+﻿using Microsoft.Maui.Controls;
+
+namespace Aplication
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
-
+        string userID = "";
+        string password = "";
         public MainPage()
         {
             InitializeComponent();
@@ -11,14 +13,28 @@
 
         private void OnCounterClicked(object sender, EventArgs e)
         {
-            count++;
-
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
+           //preveri
+        }
+        void OnEntryTextChanged(object sender, TextChangedEventArgs e)
+        {
+            string oldText = e.OldTextValue;
+            string newText = e.NewTextValue;
+            string myText = entryID.Text;
+            Console.WriteLine(oldText);
+            Console.WriteLine(newText);
+            Console.WriteLine(myText);
+        }
+        void OnEntryCompletedID(object sender, EventArgs e)
+        {
+            string text = ((Entry)sender).Text;
+            LabRezultat.Text = text;
+            userID = text;
+        }
+        void OnEntryCompletedUsername(object sender, EventArgs e)
+        {
+            string text = ((Entry)sender).Text;
+            LabRezultat.Text = text;
+            password = text;
         }
     }
 
