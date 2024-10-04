@@ -4,8 +4,9 @@ namespace Aplication
 {
     public partial class MainPage : ContentPage
     {
-        string userID = "";
-        string password = "";
+        public static string userID = "";
+        public static string password = "";
+        public static string username = "";
         public MainPage()
         {
             InitializeComponent();
@@ -15,25 +16,31 @@ namespace Aplication
             string oldText = e.OldTextValue;
             string newText = e.NewTextValue;
             string myText = entryID.Text;
-            Console.WriteLine(oldText);
-            Console.WriteLine(newText);
-            Console.WriteLine(myText);
         }
         void OnEntryCompletedID(object sender, EventArgs e)
         {
             string text = ((Entry)sender).Text;
-            LabRezultat.Text = text;
             userID = text;
         }
         void OnEntryCompletedUsername(object sender, EventArgs e)
         {
             string text = ((Entry)sender).Text;
-            LabRezultat.Text = text;
             password = text;
         }
-        private void OnCounterClicked(object sender, EventArgs e)
+        private async void OnCounterClicked(object sender, EventArgs e)
         {
-            //preveri
+            CheckLogin loginRequest = new CheckLogin();
+            bool correctLogin = loginRequest.ReturnLogin(userID, password);
+
+            if (correctLogin)
+            {
+                username = "User";
+                await Navigation.PushAsync(new GPSPage());
+            }
+            else
+            {
+
+            }
         }
     }
 

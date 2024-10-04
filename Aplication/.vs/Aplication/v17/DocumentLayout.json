@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Projekt3GB\\Aplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\gpspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\gpspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\gpspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\gpspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -30,37 +54,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Aplication\\MainPage.xaml",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
+              "RelativeToolTip": "Aplication\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T07:41:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GPSPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\GPSPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aplication\\GPSPage.xaml.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\GPSPage.xaml.cs",
+              "RelativeToolTip": "Aplication\\GPSPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:41:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPSPage.xaml",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\GPSPage.xaml",
+              "RelativeDocumentMoniker": "Aplication\\GPSPage.xaml",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\GPSPage.xaml",
+              "RelativeToolTip": "Aplication\\GPSPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T07:40:59.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Aplication\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
+              "RelativeToolTip": "Aplication\\MainPage.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:37:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\App.xaml",
+              "RelativeDocumentMoniker": "Aplication\\App.xaml",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\App.xaml",
+              "RelativeToolTip": "Aplication\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T07:32:46.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Aplication\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\AppShell.xaml.cs",
+              "RelativeToolTip": "Aplication\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:30:19.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Aplication\\App.xaml.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\App.xaml.cs",
+              "RelativeToolTip": "Aplication\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T07:28:38.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Aplication\\AppShell.xaml",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\AppShell.xaml",
+              "RelativeToolTip": "Aplication\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-04T07:16:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CheckLogin.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\CheckLogin.cs",
               "RelativeDocumentMoniker": "Aplication\\CheckLogin.cs",
               "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\CheckLogin.cs",
               "RelativeToolTip": "Aplication\\CheckLogin.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T06:59:14.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Aplication\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
-              "RelativeToolTip": "Aplication\\MainPage.xaml.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAywCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:40:04.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "appicon.svg",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\Resources\\AppIcon\\appicon.svg",
               "RelativeDocumentMoniker": "Aplication\\Resources\\AppIcon\\appicon.svg",
@@ -68,24 +183,12 @@
               "RelativeToolTip": "Aplication\\Resources\\AppIcon\\appicon.svg",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-10-04T06:12:32.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Aplication\\MainPage.xaml",
-              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
-              "RelativeToolTip": "Aplication\\MainPage.xaml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwCMAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-04T06:12:01.807Z",
+              "WhenOpened": "2024-10-04T06:12:32.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Aplication\\MauiProgram.cs",

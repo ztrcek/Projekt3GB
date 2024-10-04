@@ -24,6 +24,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = Aplication.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Projekt3GB/Aplication/Aplication/GPSPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aplication.GPSPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GPSPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GPSPage.xaml
+
 [C:/Projekt3GB/Aplication/Aplication/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Aplication.MainPage.xaml
