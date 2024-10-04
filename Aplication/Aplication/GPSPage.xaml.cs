@@ -4,13 +4,15 @@ namespace Aplication
 {
     public partial class GPSPage : ContentPage
     {
-        enum Status { doma, dela, malica}
+        enum Status { doma, dela, malica, potovanje }
         Status currentStatus = Status.doma;
         public GPSPage()
         {
             InitializeComponent();
-            //SetupWelcomeText();
+            //CheckGPS();
             WorkStatus();
+
+            UsernameText.Text = "Welcome back ";
         }
         void WorkStatus()
         {
@@ -19,11 +21,14 @@ namespace Aplication
                 case Status.doma:
                     Doma();
                     return;
-                case Status.dela: 
+                case Status.dela:
                     Dela();
                     return;
                 case Status.malica:
                     Malica();
+                    return;
+                case Status.potovanje:
+                    Potovanje();
                     return;
                 default:
                     return;
@@ -31,25 +36,44 @@ namespace Aplication
         }
         void Doma()
         {
-            IconImage.Source = "bussinessoluapp.png";
             StatusText.Text = "Si doma";
         }
         void Dela()
         {
-            IconImage.Source = "bussinessoluapp.png";
             StatusText.Text = "Delas";
         }
         void Malica()
         {
-            IconImage.Source = "bussinessoluapp.png";
+            StatusText.Text = "Malica";
+        }
+        void Potovanje()
+        {
             StatusText.Text = "Malica";
         }
 
-        #region GPS
-        void SetupWelcomeText()
+        private async void Click(object sender, EventArgs e)
         {
-            LabRezultat.Text = MainPage.username;
+            switch (currentStatus)
+            {
+                case Status.doma:
+                    return;
+                case Status.dela:
+                    await Navigation.PushAsync(new MoreInfo());
+                    return;
+                case Status.malica:
+                    return;
+                case Status.potovanje:
+                    return;
+                default:
+                    return;
+            }
+        }
+
+        #region GPS
+        void CheckGPS()
+        {
             string location = GetCachedLocation().GetAwaiter().GetResult();
+            GpsLocation.Text = location;
         }
         public async Task<string> GetCachedLocation()
         {
@@ -80,5 +104,6 @@ namespace Aplication
             return "None";
         }
         #endregion
+
     }
 }

@@ -1,4 +1,10 @@
 ﻿obj\Debug\net8.0-android\resizetizer\r\drawable\bussinessoluapp.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\bussinestrans.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\iconimagehome.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\iconimagelunchbrake.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\iconimagetrip.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\iconimagework.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\workinprogress.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon.png

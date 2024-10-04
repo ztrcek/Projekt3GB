@@ -172,3 +172,8 @@ C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\bussinessoluapp.scale-100.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconimagehome.scale-100.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconimagelunchbrake.scale-100.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconimagetrip.scale-100.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\iconimagework.scale-100.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\workinprogress.scale-100.png
