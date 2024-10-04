@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Projekt3GB\\Aplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\checklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|c:\\projekt3gb\\aplication\\aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBF015A4-9FB4-4A24-A506-6DD2051764A7}|Aplication\\Aplication.csproj|solutionrelative:aplication\\resources\\appicon\\appicon.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "CheckLogin.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\CheckLogin.cs",
+              "RelativeDocumentMoniker": "Aplication\\CheckLogin.cs",
+              "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\CheckLogin.cs",
+              "RelativeToolTip": "Aplication\\CheckLogin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:59:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Aplication\\MainPage.xaml.cs",
               "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml.cs",
               "RelativeToolTip": "Aplication\\MainPage.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wBEAAAAvAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T06:40:04.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appicon.svg",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\Resources\\AppIcon\\appicon.svg",
               "RelativeDocumentMoniker": "Aplication\\Resources\\AppIcon\\appicon.svg",
@@ -51,25 +68,24 @@
               "RelativeToolTip": "Aplication\\Resources\\AppIcon\\appicon.svg",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-10-04T06:12:32.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:12:32.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
               "RelativeDocumentMoniker": "Aplication\\MainPage.xaml",
               "ToolTip": "C:\\Projekt3GB\\Aplication\\Aplication\\MainPage.xaml",
               "RelativeToolTip": "Aplication\\MainPage.xaml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAAAzAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCMAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-04T06:12:01.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\Aplication\\Aplication\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Aplication\\MauiProgram.cs",

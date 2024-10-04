@@ -10,11 +10,6 @@ namespace Aplication
         {
             InitializeComponent();
         }
-
-        private void OnCounterClicked(object sender, EventArgs e)
-        {
-           //preveri
-        }
         void OnEntryTextChanged(object sender, TextChangedEventArgs e)
         {
             string oldText = e.OldTextValue;
@@ -35,6 +30,10 @@ namespace Aplication
             string text = ((Entry)sender).Text;
             LabRezultat.Text = text;
             password = text;
+        }
+        private void OnCounterClicked(object sender, EventArgs e)
+        {
+            //preveri
         }
     }
 
