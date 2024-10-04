@@ -32,10 +32,6 @@ namespace WebApp
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-            Uporabnik newUser = new Uporabnik();
-            newUser.id = 1;
-
-            Console.Write(newUser.id);
 
             app.UseAuthorization();
 
