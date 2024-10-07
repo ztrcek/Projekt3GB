@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApp;
@@ -28,36 +29,29 @@ namespace WebApp.Controllers
             return await _context.Uporabniki.ToListAsync();
         }
 
-        // GET: api/Uporabnik/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<Uporabnik>> GetUporabnik(int id)
-        {
-            var uporabnik = await _context.Uporabniki.FindAsync(id);
+         //GET: api/Uporabnik/5
+        //[Authorize]
+        //[HttpGet]
+        //public async Task<IResult> GetUporabniki()
+        //{ 
+        //    return results.ok("Avtoriziran dostop");
+        //}
 
-            if (uporabnik == null)
-            {
-                return NotFound();
-            }
-
-            return uporabnik;
-        }
 
         // PUT: api/Uporabnik/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{ime}")]
-        public async Task<IActionResult> PutUporabnik(string ime, Uporabnik uporabnik)
+        [HttpPut]
+        public async Task<IActionResult> PutUporabnik(Uporabnik uporabnik, UserService userService)
         {
-            var u = _context.Uporabniki.Where(a => a.ime == ime).FirstOrDefault();
-            if (u==null)
-            {
-                return BadRequest();
-            }
-            if (u.geslo == uporabnik.geslo)
-                return NoContent();
-            else
-                return BadRequest();
 
-           
+            var user = userService.GetUserByUsername(uporabnik.ime);
+            if (user != null && userService.VerifyPassword(uporabnik.geslo, user.geslo))
+            {
+                var token = userService.GenerateJwtToken(user);
+                return Ok(token);
+            }
+
+            return BadRequest("Ne morem ustvariti žetona");
         }
 
         // POST: api/Uporabnik
@@ -65,16 +59,16 @@ namespace WebApp.Controllers
         [HttpPost]
         public async Task<ActionResult> PostUporabnik(Uporabnik uporabnik, UserService userservice)
         {
-            var obstaja = await _context.Uporabniki.Where(e => e.Ime == uporabnik.Ime).FirstOrDefaultAsync(); //preverimo, da se uporabnik ne podvaja
+            var obstaja = await _context.Uporabniki.Where(e => e.ime == uporabnik.ime).FirstOrDefaultAsync(); //preverimo, da se uporabnik ne podvaja
             if (obstaja != null)
             {
                 return BadRequest("Uporabniško ime mora biti edinstveno");
             }
             var user = new Uporabnik
             {
-                Ime = uporabnik.Ime,
-                KodiranoGeslo = userservice.HashPassword(uporabnik.KodiranoGeslo),
-                JeAktiven = uporabnik.JeAktiven
+                ime = uporabnik.ime,
+                geslo = userservice.HashPassword(uporabnik.geslo),
+                jeActive = uporabnik.jeActive,
             };
             userservice.CreateUser(user);
             return Ok();

@@ -3,28 +3,47 @@
   "WorkspaceRootPath": "C:\\Projekt3GB\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\controllers\\uporabnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\uporabnikcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\authsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\podatkidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJEKT3GB_WEBAPP_WEBAPP_PODATKI.MDF/True/SqlTable/dbo.Uporabniki.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\gpslocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004063443_x.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|c:\\projekt3gb\\webapp\\webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49680433-1712-4150-8263-1C43C171EDFA}|WebApp\\WebApp.csproj|solutionrelative:webapp\\migrations\\20241004074732_y.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +53,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApp\\UserService.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\UserService.cs",
+              "RelativeToolTip": "WebApp\\UserService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:37:44.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAgwGgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:01:14.036Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UporabnikController.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Controllers\\UporabnikController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\UporabnikController.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Controllers\\UporabnikController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\UporabnikController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:15:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthSettings.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\AuthSettings.cs",
+              "RelativeDocumentMoniker": "WebApp\\AuthSettings.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\AuthSettings.cs",
+              "RelativeToolTip": "WebApp\\AuthSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:59:34.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T06:06:01.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PodatkiDb.cs",
+              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\PodatkiDb.cs",
+              "RelativeDocumentMoniker": "WebApp\\PodatkiDb.cs",
+              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\PodatkiDb.cs",
+              "RelativeToolTip": "WebApp\\PodatkiDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:01:10.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Uporabniki [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__PROJEKT3GB_WEBAPP_WEBAPP_PODATKI.MDF/True/SqlTable/dbo.Uporabniki.sql",
+              "ToolTip": "dbo.Uporabniki [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-04T10:19:26.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20241004063443_X.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004063443_X.cs",
               "RelativeDocumentMoniker": "WebApp\\Migrations\\20241004063443_X.cs",
@@ -46,25 +156,23 @@
               "RelativeToolTip": "WebApp\\Migrations\\20241004063443_X.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:15:09.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:15:09.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GPSLocation.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\GPSLocation.cs",
               "RelativeDocumentMoniker": "WebApp\\GPSLocation.cs",
               "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\GPSLocation.cs",
               "RelativeToolTip": "WebApp\\GPSLocation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:47:00.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:47:00.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "20241004074732_y.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Migrations\\20241004074732_y.cs",
               "RelativeDocumentMoniker": "WebApp\\Migrations\\20241004074732_y.cs",
@@ -72,47 +180,19 @@
               "RelativeToolTip": "WebApp\\Migrations\\20241004074732_y.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:47:32.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:47:32.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WebApp\\WeatherForecast.cs",
               "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\WeatherForecast.cs",
               "RelativeToolTip": "WebApp\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:01:15.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:01:14.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PodatkiDb.cs",
-              "DocumentMoniker": "C:\\Projekt3GB\\WebApp\\WebApp\\PodatkiDb.cs",
-              "RelativeDocumentMoniker": "WebApp\\PodatkiDb.cs",
-              "ToolTip": "C:\\Projekt3GB\\WebApp\\WebApp\\PodatkiDb.cs",
-              "RelativeToolTip": "WebApp\\PodatkiDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T06:01:10.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T06:01:15.004Z"
             }
           ]
         }

@@ -33,8 +33,7 @@ namespace WebApp
             {
                 options.RequireHttpsMetadata = false;
                 options.SaveToken = true;
-                options.TokenValidationParameters new TokenValidationParameters
-                {
+                options.TokenValidationParameters = new TokenValidationParameters{
                     ValidateIssuer = false,
                     ValidateAudience = false,
                     ValidateLifetime = true,
