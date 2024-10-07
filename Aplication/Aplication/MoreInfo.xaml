@@ -3,10 +3,27 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Aplication.MoreInfo"
              Title="MoreInfo">
-    <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
+    <ScrollView>
+        <VerticalStackLayout>
+            <Label
+            Text="Status"
             VerticalOptions="Center" 
-            HorizontalOptions="Center" />
-    </VerticalStackLayout>
+            HorizontalOptions="Center"/>
+
+            <Image
+                Source="bussinestrans.png"
+                HeightRequest="300"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+            <Label  
+                x:Name="startTime"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+            <Label  
+                x:Name="endTime"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

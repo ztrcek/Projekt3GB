@@ -13,53 +13,25 @@
                 TextColor="Black"
                 HorizontalOptions="Center"
             />
-        <Grid Margin="10" ColumnSpacing="20" RowSpacing="20"
-              RowDefinitions="1*, 2*" ColumnDefinitions="1*,1*">
-
-            <ImageButton
-                Clicked="Click"
-                x:Name ="WorkIcon"
-                BackgroundColor="LightCoral"
-                Source ="iconimagework.png"
-                HeightRequest="300"
-                WidthRequest="160"
-                Aspect="AspectFit"
-                SemanticProperties.Description="1" />
-            <ImageButton
-                Clicked="Click"
-                Grid.Column="1"
-                BackgroundColor="Blue"
-                x:Name ="LunchIcon"
-                Source ="iconimagelunchbrake.png"
-                HeightRequest="300"
-                WidthRequest="160"
-                Aspect="AspectFit"
-                SemanticProperties.Description="2" />
-            <ImageButton
-                Clicked="Click"
-                Grid.Row="1"
-                BackgroundColor="PaleVioletRed"
-                x:Name ="TripIcon"
-                Source="iconimagetrip.png"
-                HeightRequest="300"
-                WidthRequest="160"
-                Aspect="AspectFit"
-                SemanticProperties.Description="3" />
-            <ImageButton
-                Clicked="Click"
-                Grid.Column="1"
-                Grid.Row="1"
-                BackgroundColor="YellowGreen"
-                x:Name ="HomeIcon"
-                Source ="iconimagehome.png"
-                HeightRequest="300"
-                WidthRequest="160"
-                Aspect="AspectFit"
-                SemanticProperties.Description="4"/>
-        </Grid>
+        <Label
+            x:Name="StatusText"
+            Text="Status: Ne delas"
+            Style="{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1" />
+        <ImageButton
+            Clicked="Click"
+            Grid.Column="1"
+            Grid.Row="1"
+            BackgroundColor="YellowGreen"
+            x:Name ="HomeIcon"
+            Source ="iconimagehome.png"
+            HeightRequest="300"
+            WidthRequest="160"
+            Aspect="AspectFit"
+            SemanticProperties.Description="4"/>
         <ImageButton
             x:Name ="Refresh"
-            Clicked="Click"
+            Clicked="RefreshStatus"
     
             BackgroundColor="YellowGreen"
             Source ="iconimagehome.png"
@@ -67,11 +39,6 @@
             WidthRequest="340"
             Aspect="AspectFit"
             SemanticProperties.Description="4"/>
-        <Label
-            x:Name="StatusText"
-            Text="Status: Ne delas"
-            Style="{StaticResource Headline}"
-            SemanticProperties.HeadingLevel="Level1" />
         <Label
             x:Name="GpsLocation"
             TextColor="Black"

@@ -36,18 +36,22 @@ namespace Aplication
         }
         void Doma()
         {
+            HomeIcon.Source = "iconimagehome.png";
             StatusText.Text = "Si doma";
         }
         void Dela()
         {
+            HomeIcon.Source = "iconimagework.png";
             StatusText.Text = "Delas";
         }
         void Malica()
         {
+            HomeIcon.Source = "iconimagelunchbrake.png";
             StatusText.Text = "Malica";
         }
         void Potovanje()
         {
+            HomeIcon.Source = "iconimagetrip.png";
             StatusText.Text = "Malica";
         }
 
@@ -56,17 +60,30 @@ namespace Aplication
             switch (currentStatus)
             {
                 case Status.doma:
+                    await Navigation.PushAsync(new MoreInfo());
                     return;
                 case Status.dela:
                     await Navigation.PushAsync(new MoreInfo());
                     return;
                 case Status.malica:
+                    await Navigation.PushAsync(new MoreInfo());
                     return;
                 case Status.potovanje:
+                    await Navigation.PushAsync(new MoreInfo());
                     return;
                 default:
                     return;
             }
+        }
+
+        public void RefreshStatus(object sender, EventArgs e)
+        {
+            if(currentStatus == Status.doma)
+            {
+                currentStatus = Status.dela;
+            }
+
+            WorkStatus();
         }
 
         #region GPS

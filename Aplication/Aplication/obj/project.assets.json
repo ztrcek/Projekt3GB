@@ -32930,7 +32930,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\student\\.nuget\\packages\\": {},
+    "C:\\Users\\m3-20\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -32939,7 +32939,7 @@
       "projectUniqueName": "C:\\Projekt3GB\\Aplication\\Aplication\\Aplication.csproj",
       "projectName": "Aplication",
       "projectPath": "C:\\Projekt3GB\\Aplication\\Aplication\\Aplication.csproj",
-      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\m3-20\\.nuget\\packages\\",
       "outputPath": "C:\\Projekt3GB\\Aplication\\Aplication\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
@@ -32947,7 +32947,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\m3-20\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

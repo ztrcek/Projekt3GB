@@ -15,14 +15,8 @@
 
             <Label
                 Text="Sign in"
-                Style="{StaticResource Headline}"
-                SemanticProperties.HeadingLevel="Level1" />
+                Style="{StaticResource Headline}"/>
 
-            <Label
-                Text="Test app"
-                Style="{StaticResource SubHeadline}"
-                SemanticProperties.HeadingLevel="Level2"
-                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
             <Entry x:Name="entryID"
                Placeholder="Enter user ID"
                TextChanged="OnEntryTextChanged"
