@@ -297,3 +297,8 @@ C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Aplication.pdb
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\Aplication.genruntimeconfig.cache
 C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\Aplication.dll
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\workinprogress.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\iconimagework.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\iconimagelunchbrake.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\iconimagetrip.png
+C:\Projekt3GB\Aplication\Aplication\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\iconimagehome.png

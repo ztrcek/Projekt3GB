@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Aplication.GPSPage"
+             Title="Home"
+             BackgroundColor ="White">
+    
+    <VerticalStackLayout>
+        <Label
+                x:Name="UsernameText"
+                Text="Welcome back"
+                FontSize="Large"
+                TextColor="Black"
+                HorizontalOptions="Center"
+            />
+        <Grid Margin="10" ColumnSpacing="20" RowSpacing="20"
+              RowDefinitions="1*, 2*" ColumnDefinitions="1*,1*">
+
+            <ImageButton
+                Clicked="Click"
+                x:Name ="WorkIcon"
+                BackgroundColor="LightCoral"
+                Source ="iconimagework.png"
+                HeightRequest="300"
+                WidthRequest="160"
+                Aspect="AspectFit"
+                SemanticProperties.Description="1" />
+            <ImageButton
+                Clicked="Click"
+                Grid.Column="1"
+                BackgroundColor="Blue"
+                x:Name ="LunchIcon"
+                Source ="iconimagelunchbrake.png"
+                HeightRequest="300"
+                WidthRequest="160"
+                Aspect="AspectFit"
+                SemanticProperties.Description="2" />
+            <ImageButton
+                Clicked="Click"
+                Grid.Row="1"
+                BackgroundColor="PaleVioletRed"
+                x:Name ="TripIcon"
+                Source="iconimagetrip.png"
+                HeightRequest="300"
+                WidthRequest="160"
+                Aspect="AspectFit"
+                SemanticProperties.Description="3" />
+            <ImageButton
+                Clicked="Click"
+                Grid.Column="1"
+                Grid.Row="1"
+                BackgroundColor="YellowGreen"
+                x:Name ="HomeIcon"
+                Source ="iconimagehome.png"
+                HeightRequest="300"
+                WidthRequest="160"
+                Aspect="AspectFit"
+                SemanticProperties.Description="4"/>
+        </Grid>
+        <ImageButton
+            x:Name ="Refresh"
+            Clicked="Click"
+    
+            BackgroundColor="YellowGreen"
+            Source ="iconimagehome.png"
+            HeightRequest="60"
+            WidthRequest="340"
+            Aspect="AspectFit"
+            SemanticProperties.Description="4"/>
+        <Label
+            x:Name="StatusText"
+            Text="Status: Ne delas"
+            Style="{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1" />
+        <Label
+            x:Name="GpsLocation"
+            TextColor="Black"
+            />
+    </VerticalStackLayout>
+</ContentPage>
